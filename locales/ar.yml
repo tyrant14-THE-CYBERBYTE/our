@@ -1,13 +1,13 @@
 ---
 #Main
 send-help: |
-  مرحباً! إسمي *{}*. أنا روبوت إدارة المجموعة، هنا لمساعدتك في الوصول والحفاظ على الطلب في مجموعاتك!
-  لدي الكثير من الميزات المفيدة، مثل نظام التحذير، ونظام حفظ الملاحظات، وحتى الردود المحددة مسبقاً على بعض الكلمات الرئيسية.\n
-  *الأوامر المساعدة:*
-  - /start: ابدأ بي! ربما كنت قد استخدمت هذا بالفعل.
-  - /help: أرسل هذه الرسالة؛ سأخبرك بالمزيد عن نفسي!
-  - /help <module name>: معلومات PM الخاصة بك حول الوحدة النمطية المحددة.
-  - /lang: تغيير لغة البوت {}
+  Hey! My name is *{}*. I am a group management bot, here to help you get around and keep the order in your groups!
+  I have lots of handy features, such as warning system, a note keeping system, and even predetermined replies on certain keywords.\n
+  *Helpful commands:*
+  - /start: Starts me! You've probably already used this.
+  - /help: Sends this message; I'll tell you more about myself!
+  - /help <module name>: PM's you info about the specific module.
+  - /lang: Change bot language{}
 cmd_multitrigger: "\n\nيمكن استخدام جميع الأوامر مع ما يلي: `/` `!`"
 here_is_help: إليك بعض المساعدة للوحدة *{}*:\n\n{}
 help_not_found: لم يتم العثور على سلسلة المساعدة لـ <code>{}</code>!
