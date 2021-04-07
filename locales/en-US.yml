@@ -1,9 +1,9 @@
 #Main
 send-help: |
-  Hey! My name is *{}*. I am a group management bot, here to help you get around and keep the order in your groups!
+  Hey! My name is *{SECKTOR}*. I am a group management bot deputed at @thecyberbyte and associates , here to help you get around and keep the order in your groups!
   I have lots of handy features, such as warning system, a note keeping system, and even predetermined replies on certain keywords.\n
   *Helpful commands:*
-  - /start: Starts me! You've probably already used this.
+  - /start: Starts me!
   - /help: Sends this message; I'll tell you more about myself!
   - /help <module name>: PM's you info about the specific module.
   - /lang: Change bot language{}
@@ -11,15 +11,15 @@ cmd_multitrigger: "\n\nAll commands can be used with the following: `/` `!`"
 here_is_help: Here is some help for the *{}* module:\n\n{}
 help_not_found: Help string for <code>{}</code> not found!
 help_pm_only: Contact me in PM to get the list of possible commands.
-btn_help: '❔ Help'
-btn_go_back: Back
-main_start_group: Hey there! I'm alive :3
+btn_help: '? Help ?'
+btn_go_back: 🚧Back🚧
+main_start_group: Hey there! I'm alive :-) 
 
 main_start_pm: |
   Hey there! My name is Secktor - I'm here to help you manage your groups!
   Click Help button to find out more about how to use me to my full potential.
 
-  Join [the bot support group](https://t.me/HarukaAyaGroup) ( @yhecyberbyte ) if you need any bot support or help.
+  Join [the bot support group](https://t.me/cyberbytedev) ( @thecyberbyte ) if you need any bot support or help.
 
   Follow [Secktor](https://t.me/Secktor_RoBot) ( @Secktor_RoBot ) if you want to keep up with the bot news, bot updates and bot downtime!
 
